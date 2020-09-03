@@ -1,3 +1,3 @@
-# dandypramudya
+# Dandy Pramudya CV & Portfolio
 
-Web : https://dandypramudyaa.github.io/dandypramudya/
+Link : https://dandypramudyaa.github.io/dandypramudya/
