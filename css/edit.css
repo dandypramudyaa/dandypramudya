@@ -1,0 +1,87 @@
+.zoom:hover {
+    transform: scale(1.25);
+}
+
+.cv .garis {
+    margin-bottom: 15px;
+}
+
+.cv p {
+    font-size: large;
+    margin-top: 8px;
+    text-align: justify;
+    width: 450px;
+    margin-bottom: 0px;
+    color: #0f272e;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.cv h3 h4 h5 h6,
+.portfoliomodal h3 h4 h5 h6 {
+    margin-top: 8px;
+    text-align: justify;
+    width: 450px;
+    margin-bottom: 0px;
+    color: #0f272e;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.cv.bahasa {
+    color: #0f272e;
+    font-family: 'Poppins';
+    font-weight: 600;
+    /* font-size: 3em; */
+}
+
+.cv.others {
+    color: #0f272e;
+    font-family: 'Poppins';
+    font-weight: 400;
+    /* font-size: 3em; */
+}
+
+.cv.skill {
+    margin-top: 8px;
+}
+
+.subcv {
+    margin-bottom: 30px;
+}
+
+.reddot {
+    height: 15px;
+    width: 15px;
+    background-color: #fe290c;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.yellowdot {
+    height: 15px;
+    width: 15px;
+    background-color: #f5c51b;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.orangedot {
+    height: 25px;
+    width: 25px;
+    background-color: #f1533f;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.portfoliomodal {
+    margin-bottom: 10px;
+}
+
+.ss {
+    border-radius: .5rem;
+}
